@@ -8,11 +8,11 @@
     "len": 4
   },
   "2": {
-    "h2": "by James Fenimore Cooper",
-    "len": 4
+    "h2": "James Fenimore Cooper",
+    "len": 3
   },
   "3": {
-    "img": "/images/{0005}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0005}.jpg",
     "len": ""
   },
   "4": {
@@ -528,7 +528,7 @@
     "len": 131
   },
   "132": {
-    "img": "/images/{0043}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0043}.jpg",
     "len": ""
   },
   "133": {
@@ -1232,7 +1232,7 @@
     "len": 14
   },
   "308": {
-    "img": "/images/{5095}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{5095}.jpg",
     "len": ""
   },
   "309": {
@@ -1564,7 +1564,7 @@
     "len": 79
   },
   "391": {
-    "img": "/images/{0089}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0089}.jpg",
     "len": ""
   },
   "392": {
@@ -2124,7 +2124,7 @@
     "len": 125
   },
   "531": {
-    "img": "/images/{0123}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0123}.jpg",
     "len": ""
   },
   "532": {
@@ -2560,7 +2560,7 @@
     "len": 14
   },
   "640": {
-    "img": "/images/{5177}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{5177}.jpg",
     "len": ""
   },
   "641": {
@@ -2604,7 +2604,7 @@
     "len": 355
   },
   "651": {
-    "img": "/images/{0149}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0149}.jpg",
     "len": ""
   },
   "652": {
@@ -2696,7 +2696,7 @@
     "len": 98
   },
   "674": {
-    "img": "/images/{0161}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0161}.jpg",
     "len": ""
   },
   "675": {
@@ -3068,7 +3068,7 @@
     "len": 18
   },
   "767": {
-    "img": "/images/{5215}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{5215}.jpg",
     "len": ""
   },
   "768": {
@@ -3940,7 +3940,7 @@
     "len": 61
   },
   "985": {
-    "img": "/images/{0213}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0213}.jpg",
     "len": ""
   },
   "986": {
@@ -4464,7 +4464,7 @@
     "len": 21
   },
   "1116": {
-    "img": "/images/{0233}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0233}.jpg",
     "len": ""
   },
   "1117": {
@@ -4644,7 +4644,7 @@
     "len": 22
   },
   "1161": {
-    "img": "/images/{5299}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{5299}.jpg",
     "len": ""
   },
   "1162": {
@@ -5028,7 +5028,7 @@
     "len": 197
   },
   "1257": {
-    "img": "/images/{5015}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{5015}.jpg",
     "len": ""
   },
   "1258": {
@@ -5204,7 +5204,7 @@
     "len": 53
   },
   "1301": {
-    "img": "/images/{0271}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0271}.jpg",
     "len": ""
   },
   "1302": {
@@ -5920,7 +5920,7 @@
     "len": 82
   },
   "1480": {
-    "img": "/images/{0307}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0307}.jpg",
     "len": ""
   },
   "1481": {
@@ -6032,7 +6032,7 @@
     "len": 191
   },
   "1508": {
-    "img": "/images/{0319}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0319}.jpg",
     "len": ""
   },
   "1509": {
@@ -6352,7 +6352,7 @@
     "len": 101
   },
   "1588": {
-    "img": "/images/{0343}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0343}.jpg",
     "len": ""
   },
   "1589": {
@@ -6680,7 +6680,7 @@
     "len": 49
   },
   "1670": {
-    "img": "/images/{0359}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0359}.jpg",
     "len": ""
   },
   "1671": {
@@ -6804,7 +6804,7 @@
     "len": 211
   },
   "1701": {
-    "img": "/images/{5433}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{5433}.jpg",
     "len": ""
   },
   "1702": {
@@ -7656,7 +7656,7 @@
     "len": 59
   },
   "1914": {
-    "img": "/images/{0407}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0407}.jpg",
     "len": ""
   },
   "1915": {
@@ -7780,7 +7780,7 @@
     "len": 19
   },
   "1945": {
-    "img": "/images/{5491}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{5491}.jpg",
     "len": ""
   },
   "1946": {
@@ -8824,7 +8824,7 @@
     "len": 150
   },
   "2206": {
-    "img": "/images/{0461}.jpg",
+    "img": "https://raw.githubusercontent.com/marvindanig/the-last-of-the-mohicans/master/assets/images/{0461}.jpg",
     "len": ""
   },
   "2207": {
